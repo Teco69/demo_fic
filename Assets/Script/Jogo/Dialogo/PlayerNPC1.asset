@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0ea00f1827d2984aa076c4f76ef2991, type: 3}
+  m_Name: PlayerNPC1
+  m_EditorClassIdentifier: 
+  falas:
+  - personagem: {fileID: 11400000, guid: 1014f375762dede46941418b611db1c1, type: 2}
+    idExpressao: 0
+    textoFalas:
+    - "Sua tosse teria parado se voc\xEA tivesse tomado o xarope que eu te passei."
+  - personagem: {fileID: 11400000, guid: cf40e40cec90d564b821ae142cc0bd2b, type: 2}
+    idExpressao: 0
+    textoFalas:
+    - "Aquele xarope ruim n\xE3o teria me ajudado em nada mesmo.\n"
+  - personagem: {fileID: 11400000, guid: 1014f375762dede46941418b611db1c1, type: 2}
+    idExpressao: 0
+    textoFalas:
+    - "Quem \xE9 o Enfermeiro aqui? Eu estou tentando de ajudar."
+  - personagem: {fileID: 11400000, guid: cf40e40cec90d564b821ae142cc0bd2b, type: 2}
+    idExpressao: 0
+    textoFalas:
+    - "Mas n\xE3o ajudou, eu tomei o xarope inteiro."
+  - personagem: {fileID: 11400000, guid: 1014f375762dede46941418b611db1c1, type: 2}
+    idExpressao: 0
+    textoFalas:
+    - "Ah... Oi Vlad, t\xE1 precisando de alguma coisa?"
+  - personagem: {fileID: 11400000, guid: efbce4a4c3f15f34c8f017a034137186, type: 2}
+    idExpressao: 0
+    textoFalas:
+    - "N\xE3o. s\xF3 estava de passagem, voc\xEAs est\xE3o precisando de algo?"
+  - personagem: {fileID: 11400000, guid: 1014f375762dede46941418b611db1c1, type: 2}
+    idExpressao: 0
+    textoFalas:
+    - "Uma vida nova, novos amigos, novos pacientes... E de rem\xE9dios para tosse."
+  - personagem: {fileID: 11400000, guid: efbce4a4c3f15f34c8f017a034137186, type: 2}
+    idExpressao: 0
+    textoFalas:
+    - "Voc\xEA ainda n\xE3o melhorou da tosse Josep?"
+  - personagem: {fileID: 11400000, guid: cf40e40cec90d564b821ae142cc0bd2b, type: 2}
+    idExpressao: 0
+    textoFalas:
+    - "N\xE3o e N\xE3o. Tudo tem um prazo de validade e aparentemente aquele xarope
+      j\xE1 tinha passado."
+  - personagem: {fileID: 11400000, guid: efbce4a4c3f15f34c8f017a034137186, type: 2}
+    idExpressao: 0
+    textoFalas:
+    - Como assim, o xarope acabou?
+  - personagem: {fileID: 11400000, guid: cf40e40cec90d564b821ae142cc0bd2b, type: 2}
+    idExpressao: 0
+    textoFalas:
+    - 'Tomei cada gota, duas vezes por dia, assim como o Stevan havia pedido.
+
+
+
+'
+  - personagem: {fileID: 11400000, guid: efbce4a4c3f15f34c8f017a034137186, type: 2}
+    idExpressao: 0
+    textoFalas:
+    - "Ent\xE3o o xarope acabou? E os ch\xE1s do Hawise?"
+  - personagem: {fileID: 11400000, guid: 1014f375762dede46941418b611db1c1, type: 2}
+    idExpressao: 0
+    textoFalas:
+    - "Estavam fazendo efeito a pouco tempo atr\xE1s, mas nada muito eficaz."
+  - personagem: {fileID: 11400000, guid: cf40e40cec90d564b821ae142cc0bd2b, type: 2}
+    idExpressao: 0
+    textoFalas:
+    - "A n\xE3o ser que a gente misture todas aquelas ervas."
+  - personagem: {fileID: 11400000, guid: efbce4a4c3f15f34c8f017a034137186, type: 2}
+    idExpressao: 0
+    textoFalas:
+    - "Tem alguma coisa que eu possa fazer para ajudar voc\xEAs?"
+  - personagem: {fileID: 11400000, guid: 1014f375762dede46941418b611db1c1, type: 2}
+    idExpressao: 0
+    textoFalas:
+    - "S\xF3 se... Voc\xEA sabe, ir atr\xE1s de algum xarope, l\xE1 fora."
+  - personagem: {fileID: 11400000, guid: efbce4a4c3f15f34c8f017a034137186, type: 2}
+    idExpressao: 0
+    textoFalas:
+    - "*Herm* \xC9 meio complicado, voc\xEA sabe."
+  - personagem: {fileID: 11400000, guid: 1014f375762dede46941418b611db1c1, type: 2}
+    idExpressao: 0
+    textoFalas:
+    - "Eu sei, n\xE3o precisa ir... \xE9 que a gente ta meio sem op\xE7\xE3o aqui."
+  - personagem: {fileID: 11400000, guid: efbce4a4c3f15f34c8f017a034137186, type: 2}
+    idExpressao: 0
+    textoFalas:
+    - "Eu vou, eu acho que consigo ir e voltar r\xE1pido, n\xE3o \xE9 a melhor decis\xE3o
+      mas se for ajudar..."
